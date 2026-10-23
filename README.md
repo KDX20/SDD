@@ -5,6 +5,7 @@
 > **書籍の正誤表は[こちら](./docs/guides/errata.md)です。**
 
 # SDD (Spec-Driven Development) Practice Repository
+テスト用に追記しました。
 
 [English](./README.md) | [日本語](./README_ja.md)
 
